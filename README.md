@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Kunal Hiwase</h1>
 
 <h3 align="center">
@@ -11,28 +10,28 @@ Transforming business problems into data-driven insights through Business Analys
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
-- 📊 Aspiring Business Analyst with a strong foundation in Business Intelligence and Data Analytics
-- 📈 Passionate about solving business problems using data-driven decision making
-- 🌱 Building end-to-end Business Analyst portfolio projects covering documentation, analytics, and dashboards
+- 📊 Aspiring Business Analyst specializing in Business Intelligence & Data Analytics
+- 📈 Passionate about solving business problems with data-driven decision making
+- 🌱 Building end-to-end Business Analyst portfolio projects
 
 ---
 
-# 🚀 Skills
+## 🚀 Skills
 
 ### 📊 Business Intelligence
-- Excel
+- Microsoft Excel
 - SQL (MySQL)
 - Power BI
 - Power Query
 - DAX
+- Data Cleaning
+- Data Modeling
+- Data Visualization
 - Dashboard Development
 - KPI Reporting
-- Data Visualization
-- Data Cleaning & Transformation
-- Data Modeling
 
 ### 📑 Business Analysis
 - Requirement Gathering
@@ -40,12 +39,12 @@ Transforming business problems into data-driven insights through Business Analys
 - BRD & FRD
 - User Stories
 - Acceptance Criteria
-- Process Mapping
-- SDLC
-- Agile & Scrum
 - Business Process Analysis
+- Process Mapping
 - Gap Analysis
 - Root Cause Analysis
+- SDLC
+- Agile & Scrum
 
 ### 💻 Programming
 - Python
@@ -65,50 +64,78 @@ Transforming business problems into data-driven insights through Business Analys
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 ### 🗳️ India General Election Results Analysis – 2024
-Interactive Power BI dashboard analyzing party performance, alliance trends, constituency results, and election insights using official election data.
+Interactive Power BI dashboard analyzing the 2024 Lok Sabha Election with party-wise, alliance-wise, state-wise and constituency-level insights.
 
-**Tech:** Excel • SQL • Power Query • Power BI • DAX
+**Tech Stack:** Excel • SQL • Power Query • Power BI • DAX
 
 ---
 
-### 💼 Business Requirements Documentation Project
-Prepared complete BA documentation including Problem Statement, Project Overview, BRD, FRD, User Stories, Business Rules, and Functional Requirements.
+### 📄 Business Requirements Documentation Project
+Prepared complete Business Analyst documentation including Problem Statement, Project Overview, BRD, FRD, User Stories, Functional Requirements, and Business Rules.
 
 ---
 
 ### 🏛️ Nagpur Municipal Budget Analysis
-Business Intelligence dashboard analyzing municipal budget allocation, revenue, expenditure, and departmental performance.
+Business Intelligence dashboard analyzing municipal budget allocation, departmental expenditure, revenue trends, and financial performance.
 
-**Tech:** Excel • SQL • Power BI
+**Tech Stack:** Excel • SQL • Power BI
 
 ---
 
 ### 🛒 Customer Shopping Behavior Analysis
-Retail analytics dashboard providing insights into customer behavior, sales performance, segmentation, and product trends.
+Retail analytics project providing insights into customer behavior, sales performance, product trends, and customer segmentation.
 
-**Tech:** Python • SQL • Excel • Power BI
+**Tech Stack:** Python • SQL • Excel • Power BI
 
 ---
 
-# 📈 GitHub Stats
+## 🛠️ Tools & Technologies
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kunalhiwase)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalhiwase&show_icons=true&theme=tokyonight"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalhiwase&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalhiwase&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ **Business Analyst | Business Intelligence | Data Analytics | Continuous Learner**
-```
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/kunalhiwase" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kunalhiwase" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Business Analyst • Business Intelligence • Data Analytics</b>
+</p>
