@@ -80,36 +80,66 @@ Transforming business problems into data-driven insights through Business Analys
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🗳️ India General Election Results Analysis – 2024
+## 📊 Business Insights 360
+
+<p align="center">
+<a href="https://github.com/kunalhiwase/Business-Insights-360">
+<img src="./images/business-insights-360.png" width="900"/>
+</a>
+</p>
+
+Enterprise Power BI solution providing finance, sales, marketing, supply chain, and executive insights through interactive dashboards and KPI reporting.
+
+**Tech Stack:** SQL • Excel • Power Query • Power BI • DAX
+
+🔗 **Repository:** https://github.com/kunalhiwase/Business-Insights-360
+
+---
+
+## 🗳️ India General Election Results Analysis – 2024
+
+<p align="center">
+<a href="https://github.com/kunalhiwase/India-General-Election-Results-Analysis-2024">
+<img src="./images/india-election-dashboard.png" width="900"/>
+</a>
+</p>
+
 Interactive Power BI dashboard analyzing the 2024 Lok Sabha Election with party-wise, alliance-wise, state-wise, and constituency-level insights.
 
 **Tech Stack:** Excel • SQL • Power Query • Power BI • DAX
 
+🔗 **Repository:** https://github.com/kunalhiwase/India-General-Election-Results-Analysis-2024
+
+🌐 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDUxNzRlOGYtNTJkNS00YTZlLWE0YTYtOTg3ZGI1ZTFjMTUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNC
+
 ---
 
-### 📄 Business Requirements Documentation Project
-Developed complete Business Analyst documentation including Problem Statement, Project Overview, BRD, FRD, User Stories, Functional Requirements, Business Rules, and Acceptance Criteria.
+## 🛒 Customer Shopping Behavior Analysis
 
----
+<p align="center">
+<a href="https://github.com/kunalhiwase/Customer-Shopping-Behavior-Analysis">
+<img src="./images/customer-shopping-dashboard.png" width="900"/>
+</a>
+</p>
 
-
-### 🛒 Customer Shopping Behavior Analysis
 Retail analytics project providing insights into customer behavior, sales performance, product trends, and customer segmentation.
 
 **Tech Stack:** Python • SQL • Excel • Power BI
+
+🔗 **Repository:** https://github.com/kunalhiwase/Customer-Shopping-Behavior-Analysis
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/kunalhiwase" target="_blank">
+<p align="center">
+<a href="https://linkedin.com/in/kunalhiwase">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kunalhiwase" target="_blank">
+<a href="https://github.com/kunalhiwase">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
