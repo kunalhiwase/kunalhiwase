@@ -101,7 +101,7 @@ Enterprise Power BI solution providing finance, sales, marketing, supply chain, 
 ## 🗳️ India General Election Results Analysis – 2024
 
 <p align="center">
-<a href="https://github.com/kunalhiwase/India-General-Election-Results-Analysis-2024">
+<a href="https://github.com/kunalhiwase/India-General-Election-Results-Analysis">
 </a>
 </p>
 
