@@ -95,8 +95,6 @@ Developed complete Business Analyst documentation including Problem Statement, P
 ---
 
 
----
-
 ### 🛒 Customer Shopping Behavior Analysis
 Retail analytics project providing insights into customer behavior, sales performance, product trends, and customer segmentation.
 
