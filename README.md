@@ -1,1 +1,157 @@
+<h1 align="center">Hi 👋, I'm Kunal Hiwase</h1>
 
+<h3 align="center">
+Business Analyst | Business Intelligence Analyst | AI & Data Science Graduate
+</h3>
+
+<p align="center">
+Transforming business problems into data-driven insights through Business Analysis, SQL, Excel, Power BI & Business Intelligence.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 📊 Business Analyst with expertise in Business Intelligence & Data Analytics
+- 📈 Passionate about transforming business data into actionable insights
+- 🌱 Built multiple end-to-end analytics and Business Intelligence Projects
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Skills
+
+### 📊 Business Intelligence
+- Excel
+- MySQL
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Dashboard Development
+- KPI Reporting
+- Data Visualization
+
+### 📑 Business Analysis
+- Requirement Gathering
+- Stakeholder Analysis
+- BRD & FRD
+- User Stories
+- Acceptance Criteria
+- Process Mapping
+- Gap Analysis
+- Root Cause Analysis
+- SDLC
+- Agile & Scrum
+
+### 💻 Programming
+- Python
+- Pandas
+- NumPy
+
+### 🤝 Soft Skills
+- Analytical Thinking
+- Problem Solving
+- Communication
+- Documentation
+- Presentation
+- Collaboration
+- Critical Thinking
+- Time Management
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Business Insights 360
+
+<p align="center">
+<a href="https://github.com/kunalhiwase/Business-Insights-360">
+<img src="./images/business-insights-360.png" width="900"/>
+</a>
+</p>
+
+Enterprise Power BI solution delivering Finance, Sales, Marketing, Supply Chain, and Executive insights through interactive dashboards.
+
+**Tech Stack:** SQL • Excel • Power Query • Power BI • DAX
+
+🔗 **Repository:** https://github.com/kunalhiwase/Business-Insights-360
+
+---
+
+## 🗳️ India General Election Results Analysis – 2024
+
+<p align="center">
+<a href="https://github.com/kunalhiwase/India-General-Election-Results-Analysis">
+<img src="./images/india-election-dashboard.png" width="900"/>
+</a>
+</p>
+
+Interactive Power BI dashboard analyzing the 2024 Lok Sabha Election with alliance-wise, party-wise, state-wise, and constituency-level insights.
+
+**Tech Stack:** Excel • SQL • Power Query • Power BI • DAX
+
+🔗 **Repository:** https://github.com/kunalhiwase/India-General-Election-Results-Analysis-2024
+
+🌐 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDUxNzRlOGYtNTJkNS00YTZlLWE0YTYtOTg3ZGI1ZTFjMTUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNC
+
+---
+
+## 🛒 Customer Shopping Behavior Analysis
+
+<p align="center">
+<a href="https://github.com/kunalhiwase/Customer-Shopping-Behavior-Analysis">
+<img src="./images/customer-shopping-dashboard.png" width="900"/>
+</a>
+</p>
+
+Retail analytics project analyzing customer behavior, sales performance, segmentation, and product trends.
+
+**Tech Stack:** Python • SQL • Excel • Power BI
+
+🔗 **Repository:** https://github.com/kunalhiwase/Customer-Shopping-Behavior-Analysis
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kunalhiwase">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kunalhiwase">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Business Analyst | Business Intelligence | Data Analytics | SQL | Power BI</b>
+</p>
+```
