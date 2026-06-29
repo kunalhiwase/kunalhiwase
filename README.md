@@ -1,90 +1,108 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Kunal Hiwase</h1>
 
 <h3 align="center">
-Business Analyst | Data Analyst | AI & Data Science Graduate
+Business Analyst | Business Intelligence Analyst | AI & Data Science Graduate
 </h3>
 
 <p align="center">
-Turning data into business insights through SQL, Excel, Power BI and Analytics.
+Transforming business problems into data-driven insights through Business Analysis, SQL, Excel, Power BI, and Analytics.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science
-
-📊 Skilled Business Analyst & Data Analyst
-
-📈 Passionate about Business Intelligence, Data Analytics, and Process Improvement
-
-💡 Interested in solving real-world business problems using data
-
-🌱 Currently building end-to-end Business Analyst portfolio projects
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 📊 Aspiring Business Analyst with a strong foundation in Business Intelligence and Data Analytics
+- 📈 Passionate about solving business problems using data-driven decision making
+- 🌱 Building end-to-end Business Analyst portfolio projects covering documentation, analytics, and dashboards
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Skills
 
-### 📊 Analytics
+### 📊 Business Intelligence
+- Excel
+- SQL (MySQL)
+- Power BI
+- Power Query
+- DAX
+- Dashboard Development
+- KPI Reporting
+- Data Visualization
+- Data Cleaning & Transformation
+- Data Modeling
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+### 📑 Business Analysis
+- Requirement Gathering
+- Stakeholder Analysis
+- BRD & FRD
+- User Stories
+- Acceptance Criteria
+- Process Mapping
+- SDLC
+- Agile & Scrum
+- Business Process Analysis
+- Gap Analysis
+- Root Cause Analysis
 
 ### 💻 Programming
+- Python
+- Pandas
+- NumPy
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### 📈 Business Analysis
-
-- BRD
-- FRD
-- Requirement Gathering
-- Process Mapping
-- User Stories
-- SDLC
-- Agile
-- Scrum
-
----
-
-## 📂 Featured Projects
-
-### 📊 Customer Shopping Behavior Analysis
-
-Business Intelligence dashboard built using Excel, SQL and Power BI to analyze customer purchasing behavior, product performance and customer segmentation.
+### 🤝 Soft Skills
+- Analytical Thinking
+- Problem Solving
+- Communication
+- Documentation
+- Presentation
+- Collaboration
+- Critical Thinking
+- Attention to Detail
+- Time Management
 
 ---
 
-### 🏛 Nagpur Municipal Budget Analysis
+# 📂 Featured Projects
 
-End-to-end Business Analyst project analyzing municipal budget allocation, expenditure trends and financial insights using SQL, Excel and Power BI.
+### 🗳️ India General Election Results Analysis – 2024
+Interactive Power BI dashboard analyzing party performance, alliance trends, constituency results, and election insights using official election data.
 
----
-
-### 🤖 AI Research Projects
-
-Research on Machine Learning applications in Healthcare including Cancer Prediction and Data Visualization.
+**Tech:** Excel • SQL • Power Query • Power BI • DAX
 
 ---
 
-## 📈 GitHub Stats
+### 💼 Business Requirements Documentation Project
+Prepared complete BA documentation including Problem Statement, Project Overview, BRD, FRD, User Stories, Business Rules, and Functional Requirements.
+
+---
+
+### 🏛️ Nagpur Municipal Budget Analysis
+Business Intelligence dashboard analyzing municipal budget allocation, revenue, expenditure, and departmental performance.
+
+**Tech:** Excel • SQL • Power BI
+
+---
+
+### 🛒 Customer Shopping Behavior Analysis
+Retail analytics dashboard providing insights into customer behavior, sales performance, segmentation, and product trends.
+
+**Tech:** Python • SQL • Excel • Power BI
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kunalhiwase)
 
@@ -92,4 +110,5 @@ Research on Machine Learning applications in Healthcare including Cancer Predict
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ **Business Analyst | Business Intelligence | Data Analytics | Continuous Learner**
+```
