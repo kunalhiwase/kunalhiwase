@@ -14,8 +14,24 @@ Transforming business problems into data-driven insights through Business Analys
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
 - 📊 Aspiring Business Analyst specializing in Business Intelligence & Data Analytics
-- 📈 Passionate about solving business problems with data-driven decision making
+- 📈 Passionate about solving business problems through data-driven decision making
 - 🌱 Building end-to-end Business Analyst portfolio projects
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -27,11 +43,11 @@ Transforming business problems into data-driven insights through Business Analys
 - Power BI
 - Power Query
 - DAX
-- Data Cleaning
-- Data Modeling
-- Data Visualization
 - Dashboard Development
 - KPI Reporting
+- Data Cleaning & Transformation
+- Data Modeling
+- Data Visualization
 
 ### 📑 Business Analysis
 - Requirement Gathering
@@ -67,21 +83,17 @@ Transforming business problems into data-driven insights through Business Analys
 ## 📂 Featured Projects
 
 ### 🗳️ India General Election Results Analysis – 2024
-Interactive Power BI dashboard analyzing the 2024 Lok Sabha Election with party-wise, alliance-wise, state-wise and constituency-level insights.
+Interactive Power BI dashboard analyzing the 2024 Lok Sabha Election with party-wise, alliance-wise, state-wise, and constituency-level insights.
 
 **Tech Stack:** Excel • SQL • Power Query • Power BI • DAX
 
 ---
 
 ### 📄 Business Requirements Documentation Project
-Prepared complete Business Analyst documentation including Problem Statement, Project Overview, BRD, FRD, User Stories, Functional Requirements, and Business Rules.
+Developed complete Business Analyst documentation including Problem Statement, Project Overview, BRD, FRD, User Stories, Functional Requirements, Business Rules, and Acceptance Criteria.
 
 ---
 
-### 🏛️ Nagpur Municipal Budget Analysis
-Business Intelligence dashboard analyzing municipal budget allocation, departmental expenditure, revenue trends, and financial performance.
-
-**Tech Stack:** Excel • SQL • Power BI
 
 ---
 
@@ -89,36 +101,6 @@ Business Intelligence dashboard analyzing municipal budget allocation, departmen
 Retail analytics project providing insights into customer behavior, sales performance, product trends, and customer segmentation.
 
 **Tech Stack:** Python • SQL • Excel • Power BI
-
----
-
-## 🛠️ Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalhiwase&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalhiwase&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalhiwase&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -137,5 +119,5 @@ Retail analytics project providing insights into customer behavior, sales perfor
 ---
 
 <p align="center">
-⭐ <b>Business Analyst • Business Intelligence • Data Analytics</b>
+⭐ <b>Business Analyst • Business Intelligence Analyst • Data Analytics</b>
 </p>
