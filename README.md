@@ -112,7 +112,6 @@ Interactive Power BI dashboard analyzing the 2024 Lok Sabha Election with party-
 
 🔗 **Repository:** https://github.com/kunalhiwase/India-General-Election-Results-Analysis-2024
 
-🌐 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDUxNzRlOGYtNTJkNS00YTZlLWE0YTYtOTg3ZGI1ZTFjMTUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNC
 
 ---
 
