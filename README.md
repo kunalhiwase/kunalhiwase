@@ -13,9 +13,9 @@ Transforming business problems into data-driven insights through Business Analys
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
-- 📊 Aspiring Business Analyst specializing in Business Intelligence & Data Analytics
-- 📈 Passionate about solving business problems through data-driven decision making
-- 🌱 Building end-to-end Business Analyst portfolio projects
+- 📊 Business Analyst specializing in Business Intelligence & Data Analytics
+- 📈 Passionate about solving business problems through data-driven decision-making
+- 🌱 Built multiple end-to-end Business Analyst projects
 
 ---
 
@@ -102,7 +102,6 @@ Enterprise Power BI solution providing finance, sales, marketing, supply chain, 
 
 <p align="center">
 <a href="https://github.com/kunalhiwase/India-General-Election-Results-Analysis-2024">
-<img src="./images/india-election-dashboard.png" width="900"/>
 </a>
 </p>
 
@@ -119,7 +118,6 @@ Interactive Power BI dashboard analyzing the 2024 Lok Sabha Election with party-
 
 <p align="center">
 <a href="https://github.com/kunalhiwase/Customer-Shopping-Behavior-Analysis">
-<img src="./images/customer-shopping-dashboard.png" width="900"/>
 </a>
 </p>
 
