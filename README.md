@@ -44,10 +44,10 @@ Transforming business problems into data-driven insights through Business Analys
 - Power BI
 - Power Query
 - DAX
-- Data Cleaning & Transformation
-- Data Modeling
 - Dashboard Development
 - KPI Reporting
+- Data Cleaning & Transformation
+- Data Modeling
 - Data Visualization
 
 ### 📑 Business Analysis
@@ -91,13 +91,13 @@ Transforming business problems into data-driven insights through Business Analys
 </a>
 </p>
 
-Enterprise Power BI solution delivering Finance, Sales, Marketing, Supply Chain, and Executive insights through interactive dashboards and KPI reporting.
+Enterprise Power BI solution providing Finance, Sales, Marketing, Supply Chain, and Executive insights through interactive dashboards.
 
 **Tech Stack:** SQL • Excel • Power Query • Power BI • DAX
 
-📂 **Repository:** https://github.com/kunalhiwase/Business-Insights-360
+📂 **Repository:** [Business Insights 360](https://github.com/kunalhiwase/Business-Insights-360)
 
-🌐 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDUxNzRlOGYtNTJkNS00YTZlLWE0YTYtOTg3ZGI1ZTFjMTUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🌐 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDUxNzRlOGYtNTJkNS00YTZlLWE0YTYtOTg3ZGI1ZTFjMTUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -113,9 +113,9 @@ Interactive Power BI dashboard analyzing India's General Election with alliance-
 
 **Tech Stack:** Excel • SQL • Power Query • Power BI • DAX
 
-📂 **Repository:** https://github.com/kunalhiwase/India-General-Election-Results-Analysis
+📂 **Repository:** [India General Election Results Analysis](https://github.com/kunalhiwase/India-General-Election-Results-Analysis)
 
-🌐 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMWRlODY0ODYtODQ3NC00MzdiLWJhN2UtMWYwMjNlZjMwMTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🌐 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRlODY0ODYtODQ3NC00MzdiLWJhN2UtMWYwMjNlZjMwMTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -127,20 +127,19 @@ Interactive Power BI dashboard analyzing India's General Election with alliance-
 </a>
 </p>
 
-Retail analytics project analyzing customer purchasing behavior, sales performance, customer segmentation, and product trends through interactive dashboards.
+Retail analytics project providing insights into customer behavior, sales performance, customer segmentation, and product trends.
 
 **Tech Stack:** Python • SQL • Excel • Power BI
 
-📂 **Repository:** https://github.com/kunalhiwase/Customer-Shopping-Behavior-Analysis
+📂 **Repository:** [Customer Shopping Behavior Analysis](https://github.com/kunalhiwase/Customer-Shopping-Behavior-Analysis)
 
-🌐 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiN2RmNTg4MDktNTU1Zi00YzU3LWIxZWQtYjc3MzIzYjUzMmVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🌐 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2RmNTg4MDktNTU1Zi00YzU3LWIxZWQtYjc3MzIzYjUzMmVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/kunalhiwase">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -148,7 +147,6 @@ Retail analytics project analyzing customer purchasing behavior, sales performan
 <a href="https://github.com/kunalhiwase">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -156,4 +154,3 @@ Retail analytics project analyzing customer purchasing behavior, sales performan
 <p align="center">
 ⭐ <b>Business Analyst | Business Intelligence Analyst | Data Analytics | SQL | Power BI</b>
 </p>
-```
